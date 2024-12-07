@@ -51,6 +51,8 @@ nav ul li a {
 nav ul li a.active {
     font-weight: bold;
     text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 6.5px;
 }
 
 nav ul li a:hover {
