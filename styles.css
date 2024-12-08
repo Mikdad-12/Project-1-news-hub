@@ -122,7 +122,11 @@ footer {
     width: 100%;
     bottom: 0;
 }
-
+.imageone{
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+}
 footer p {
     margin: 0;
     font-size: 18px; 
